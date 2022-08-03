@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JW2586/JW2586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JW2586)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![JW2586's GitHub stats](https://github-readme-stats.vercel.app/api?username=JW2586)](https://github.com/anuraghazra/github-readme-stats)
 -->

@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <i>My links</i>
 -->
 <h1 align="center">
-Jake Wickham
+Jake's GitHub
 </h1>
 <p align="center">
   <a href= "https://github.com/JW2586/">

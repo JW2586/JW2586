@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 <!--
   <i>My links</i>
 -->
+<!--
 <h1 align="center">
 Jake's GitHub
 </h1>
+-->
 <p align="center">
   <a href= "https://github.com/JW2586/">
     <img src="https://img.icons8.com/material-outlined/50/f8f8f2/source-code.png"/>

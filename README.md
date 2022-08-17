@@ -62,9 +62,11 @@ Jake's GitHub
   </a>
 </p>
 
-<span>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JW2586&count_private=true&show_icons=true&theme=dracula" />
-</span>
-<span>
+</p>
+<p align="center">
+  <!--
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW2586&langs_count=10&theme=dracula" />
-</span>
+  --> 
+</p>

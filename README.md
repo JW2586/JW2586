@@ -42,10 +42,10 @@ Jake's GitHub
     <img src="https://img.icons8.com/material-outlined/50/6272a4/linkedin.png"/>
   </a>
   --> 
-  <a href= "https://twitter.com/Pixelytical">
+  <a href= "https://twitter.com/Laidbackhacker">
     <img src="https://img.icons8.com/material-outlined/50/8be9fd/twitter.png"/>
   </a>
-  <a href= "https://www.pixelytical.net">
+  <a href= "https://www.laidbackhacker.dev">
     <img src="https://img.icons8.com/material-outlined/50/f8f8f2/geography.png"/>
   </a>
   <a href="https://ko-fi.com/cyanduck">
@@ -59,7 +59,7 @@ Jake's GitHub
   <a href="mailto:contact@jakewickham.co.uk">
     <img src="https://img.icons8.com/material-outlined/50/f8f8f2/mail.png"/>
   </a>
-  <a href="https://blog.pixelytical.net">
+  <a href="https://blog.laidbackhacker.dev">
     <img src="https://img.icons8.com/material-outlined/50/f1fa8c/edit--v1.png"/>
   </a>
 </p>

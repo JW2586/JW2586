@@ -48,7 +48,7 @@ Jake's GitHub
   <a href= "https://www.jakewickham.co.uk">
     <img src="https://img.icons8.com/material-outlined/50/f8f8f2/geography.png"/>
   </a>
-  <a href="https://ko-fi.com/cyanduck">
+  <a href="https://ko-fi.com/jawick">
     <img src="https://img.icons8.com/material-outlined/50/ffb86c/british-pound-circled.png"/>
   </a>
   <!--
